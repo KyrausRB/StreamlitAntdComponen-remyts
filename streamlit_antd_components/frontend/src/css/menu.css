@@ -9,6 +9,9 @@ span.ant-menu-title-content{
 li.ant-menu-item{
     height: auto !important;
 }
+li.ant-menu-item-divider{
+    display: none !important;
+}
 .ant-tag{
     font-weight: normal;
 }
